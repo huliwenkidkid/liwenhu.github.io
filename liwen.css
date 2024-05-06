@@ -1,0 +1,45 @@
+body {
+	background-color: #777;
+	width:800px;
+    margin:0 auto;
+}
+
+.myName {
+	font-family: Helvetica, sans-serif, Arial;
+	color: #FFF;
+	font-size: 36px;
+}
+
+.email {
+	font-family: Helvetica, sans-serif, Arial;
+	color: #FFF;
+	font-size: 12px;
+}
+
+.aboutMe {
+	font-family: Helvetica, sans-serif, Arial;
+	color: #FFF;
+	font-size: 14px;
+}
+
+.publications {
+	font-family: Helvetica, sans-serif, Arial;
+	color: #FFF;
+	font-size: 14px;
+}
+
+a {
+	font-family: Helvetica, sans-serif, Arial;
+	font-size: 14px;
+	color: #DDD;
+	text-decoration: none;
+}
+
+.MainContainer {
+  width: 840px;
+  min-height: 1000px;
+  margin: 0 auto;
+  padding: 0;
+  background: #999;
+}
+
